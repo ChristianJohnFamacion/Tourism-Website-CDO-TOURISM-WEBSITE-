@@ -6,4 +6,4 @@ Navigation on the site is simple and intuitive, allowing visitors to quickly acc
 
 The website not only provides valuable information but also aims to promote Cagayan de Oro as a must-visit destination. By highlighting both popular attractions and hidden gems, we strive to showcase the city's full potential as a travel destination. Connecting tourists with local businesses and activities, our site plays a role in boosting local tourism and supporting the city's economy.
 
-To further enhance the user experience, our website also offers embedded YouTube videos that feature actual footage of various tourist spots. These videos give visitors a real-time preview of what to expect, helping them better visualize and plan their itinerary.
+To further enhance the user experience, my website also offers embedded YouTube videos that feature actual footage of various tourist spots. These videos give visitors a real-time preview of what to expect, helping them better visualize and plan their itinerary.
